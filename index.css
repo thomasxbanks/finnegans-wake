@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	background: #11202a;
+	font-family: monospace;
+	color: #ddd;
+	font-size: 1.1rem;
+}
+main {
+	padding: 1rem;
+}
